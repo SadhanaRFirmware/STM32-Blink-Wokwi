@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [ { "id": "nucleo", "type": "board-st-nucleo-c031c6" } ],
+  "connections": [ [ "$serialMonitor:TX", "nucleo:PA3", "", [] ], [ "$serialMonitor:RX", "nucleo:PA2", "", [] ] ]
+}
