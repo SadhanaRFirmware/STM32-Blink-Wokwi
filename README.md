@@ -4,7 +4,7 @@
 
 This repository hosts a simulated project demonstrating basic **General-Purpose Input/Output (GPIO)** control on an STM32 microcontroller. The code is implemented using the **STM32Cube HAL** library and is fully simulatable in the Wokwi environment, providing a verifiable proof of concept.
 
-### 🔧 Key Features
+### Key Features
 - **Board Used:** ST Nucleo-C031C6
 - **Functionality:** Configures and toggles an onboard LED (LD4) connected to pin PA5.
 - **Timing:** LED state is flipped every 500 milliseconds.
@@ -12,7 +12,7 @@ This repository hosts a simulated project demonstrating basic **General-Purpose 
 
 ---
 
-## 🚀 Simulation
+## Simulation
 
 ### Live Demo
 You can view and interact with the live simulation directly on the Wokwi platform:
